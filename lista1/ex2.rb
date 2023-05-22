@@ -1,0 +1,1 @@
+# 2-Faça um algoritmo para ler quatro notas e imprimir a média ponderada dessas notas. Considere que os pesos das são: 1, 2, 3 e 4, respectivamente.
